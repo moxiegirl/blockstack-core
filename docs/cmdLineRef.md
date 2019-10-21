@@ -1,7 +1,2 @@
----
-layout: core
-permalink: /:collection/:path.html
----
-# blockstack_cli reference
+This documentation was moved to [https://docs.blockstack.org/core/cmdlineref], please update your bookmarks.
 
-{% include commandline.md %}

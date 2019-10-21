@@ -1,1 +1,1 @@
-The documentation has been moved to [docs.blockstack.org](https://docs.blockstack.org/), please update your bookmarks.
+The documentation has been moved to https://docs.blockstack.org/org/terms.html, please update your bookmarks.
