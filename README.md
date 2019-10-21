@@ -22,23 +22,23 @@ Active development of Clarity and the Stacks blockchain is ongoing in the [`deve
 
 ## Table of Contents
 
-- [Blockstack Core](#Blockstack-Core)
-    - [Interested in the Clarity Smart Contracting language?](#Interested-in-the-Clarity-Smart-Contracting-language)
-  - [Table of Contents](#Table-of-Contents)
-  - [What is Blockstack?](#What-is-Blockstack)
-    - [Why use Blockstack?](#Why-use-Blockstack)
-  - [What is Blockstack Core?](#What-is-Blockstack-Core)
-  - [Installing Blockstack Core](#Installing-Blockstack-Core)
-    - [Install from Source](#Install-from-Source)
-    - [Install with `pip`](#Install-with-pip)
-    - [Install with `docker`](#Install-with-docker)
-  - [Running a Blockstack Core Node](#Running-a-Blockstack-Core-Node)
-  - [Using Blockstack Core](#Using-Blockstack-Core)
-    - [Getting Verbose Debugging Output](#Getting-Verbose-Debugging-Output)
-  - [Developer Resources](#Developer-Resources)
-  - [Community](#Community)
-  - [Further Reading](#Further-Reading)
-  - [Copyright and License](#Copyright-and-License)
+- [Blockstack Core](#blockstack-core)
+    - [Interested in the Clarity Smart Contracting language?](#interested-in-the-clarity-smart-contracting-language)
+  - [Table of Contents](#table-of-contents)
+  - [What is Blockstack?](#what-is-blockstack)
+    - [Why use Blockstack?](#why-use-blockstack)
+  - [What is Blockstack Core?](#what-is-blockstack-core)
+  - [Installing Blockstack Core](#installing-blockstack-core)
+    - [Install from Source](#install-from-source)
+    - [Install with `pip`](#install-with-pip)
+    - [Install with `docker`](#install-with-docker)
+  - [Running a Blockstack Core Node](#running-a-blockstack-core-node)
+  - [Using Blockstack Core](#using-blockstack-core)
+    - [Getting Verbose Debugging Output](#getting-verbose-debugging-output)
+  - [Developer Resources](#developer-resources)
+  - [Community](#community)
+  - [Further Reading](#further-reading)
+  - [Copyright and License](#copyright-and-license)
 
 ## What is Blockstack?
 
@@ -340,9 +340,9 @@ design.
 You can learn more by visiting [the Blockstack Website](https://blockstack.org) and checking out the in-depth articles and documentation:
 
 - [How Blockstack Works (white paper)](https://blockstack.org/docs/how-blockstack-works)
-- [Blockstack General FAQ](https://blockstack.org/faq)
-- [Blockstack Technical FAQ](docs/faq_technical.md)
-- [Blockstack In-depth Documentation Repository](docs/README.md)
+- [Blockstack FAQs](https://docs.blockstack.org/faqs/allfaqs)
+- [Blockstack Technical FAQ](https://docs.blockstack.org/core/faq_technical.html)
+- [Blockstack In-depth Documentation Repository](https://github.com/blockstack/docs.blockstack)
 
 You can also read peer-reviewed Blockstack papers:
 
