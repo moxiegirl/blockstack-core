@@ -339,7 +339,7 @@ design.
 
 You can learn more by visiting [the Blockstack Website](https://blockstack.org) and checking out the in-depth articles and documentation:
 
-- [How Blockstack Works (white paper)](https://blockstack.org/docs/how-blockstack-works)
+- [How Blockstack Works (white paper)](https://blockstack.org/whitepaper.pdf)
 - [Blockstack FAQs](https://docs.blockstack.org/faqs/allfaqs)
 - [Blockstack Technical FAQ](https://docs.blockstack.org/core/faq_technical.html)
 - [Blockstack In-depth Documentation Repository](https://github.com/blockstack/docs.blockstack)
